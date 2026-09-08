@@ -1,3 +1,5 @@
+![The Unarchiver](unarchiver@2x.png)
+
 # 📦 The Unarchiver for macOS
 
 A simple and fast way to install **The Unarchiver** on macOS directly from Terminal.
