@@ -1,4 +1,6 @@
-![The Unarchiver](unarchiver@2x.png)
+<p align="center">
+  <img src="unarchiver@2x.png" alt="The Unarchiver" width="100">
+</p>
 
 # 📦 The Unarchiver for macOS
 
