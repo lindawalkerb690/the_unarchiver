@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="unarchiver@2x.png" alt="The Unarchiver" width="100">
+  <img src="unarchiver@2x.png" alt="The Unarchiver" width="200">
 </p>
 
 # 📦 The Unarchiver for macOS
